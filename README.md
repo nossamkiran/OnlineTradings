@@ -1,2 +1,0 @@
-# OnlineTradings
-Firstproject
